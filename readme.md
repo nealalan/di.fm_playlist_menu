@@ -1,4 +1,4 @@
-# [nealalan.github.io](https://nealalan.github.io)/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) [(repo)](https://github.com/nealalan/di.fm_playlist_menu)
+# [nealalan.github.io](https://nealalan.github.io)/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) ([repo](https://github.com/nealalan/di.fm_playlist_menu))
 
 ## Prereqs:
 - Have a [https://di.fm](https://di.fm) Premium Account
