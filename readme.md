@@ -11,6 +11,8 @@
 5. Run `./build_pls_di.sh`
 6. Paste in the Listen Key when prompted
 
+![](https://github.com/nealalan/di.fm_playlist_menu/blob/master/images/Screen%20Shot%202019-03-10%20at%209.24.02%20PM.jpg?raw=true)
+
 ## Use: 
 1. Run `./di.sh`
 2. Choose the number you want to listen to
