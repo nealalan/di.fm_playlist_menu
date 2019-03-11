@@ -1,7 +1,7 @@
 # [nealalan.github.io](https://nealalan.github.io)/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu)
 
 ## Prereq:
-- Have a https://di.fm Premium Account
+- Have a [https://di.fm](https://di.fm) Premium Account
 
 ## Setup:
 1. Pull or copy the .sh files to a project folder. 
@@ -22,4 +22,4 @@
 - If you don't like a station, you can delete that individual playlist file.
 - If you want to edit the stations or if your API KEY changes, delete all .pls files, modify the arrays (all 3) in build_pls_di.sh, Run the Setup again.
 
-[[EDIT](https://github.com/nealalan/di.fm_playlist_menu/edit/master/README.md)]
+[[EDIT](https://github.com/nealalan/di.fm_playlist_menu/edit/master/readme.md)]
