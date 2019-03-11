@@ -1,6 +1,6 @@
 # [nealalan.github.io](https://nealalan.github.io)/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu)
 
-## Prereq:
+## Prereqs:
 - Have a [https://di.fm](https://di.fm) Premium Account
 - Install [mpv - The command line media player](https://mpv.io/)
 
