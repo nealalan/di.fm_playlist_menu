@@ -17,7 +17,8 @@
 ## Use: 
 1. Run `./di.sh`
 2. Choose the number you want to listen to
-3. ^C to exit
+3. Use the [standard controls that are a part of mpv](https://mpv.io/manual/master/) (q = QUIT)
+3. Choose another channel or `^C` to exit the menu
 
 ![](https://github.com/nealalan/di.fm_playlist_menu/blob/master/images/Screen%20Shot%202019-03-10%20at%209.16.48%20PM.jpg?raw=true)
 
