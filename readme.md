@@ -2,6 +2,7 @@
 
 ## Prereq:
 - Have a [https://di.fm](https://di.fm) Premium Account
+- Install [mpv - The command line media player](https://mpv.io/)
 
 ## Setup:
 1. Pull or copy the .sh files to a project folder. 
