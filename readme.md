@@ -1,11 +1,11 @@
-# [nealalan.github.io](https://nealalan.github.io)/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu)
+# [nealalan.github.io](https://nealalan.github.io)/[di.fm_playlist_menu](https://nealalan.github.io/di.fm_playlist_menu) [(repo)](https://github.com/nealalan/di.fm_playlist_menu)
 
 ## Prereqs:
 - Have a [https://di.fm](https://di.fm) Premium Account
 - Install [mpv - The command line media player](https://mpv.io/)
 
 ## Setup:
-1. Pull or copy the .sh files to a project folder. 
+1. Pull or copy the .sh files to a project folder from the [repo](https://github.com/nealalan/di.fm_playlist_menu)
 2. Run `chmod +x *.sh`
 3. Browse to [https://www.di.fm/settings](https://www.di.fm/settings): Player Settings: Listen Key
 4. Copy the key
