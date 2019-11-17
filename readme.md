@@ -37,4 +37,13 @@ To add a station you need to download the defaul playlist from [di.fm](https://w
 - If you don't like a station, you can delete that individual playlist file.
 - If you want to edit the stations or if your API KEY changes, delete all .pls files, modify the arrays (all 3) in build_pls_di.sh, Run the Setup again.
 
+## Future updates:
+- add more (all) channels
+- put separate arrays into a matrix
+```bash
+# Init a 4x5 matrix
+a=("0 0 0 0 0" "0 0 0 0 0" "0 0 0 0 0" "0 0 0 0 0")
+```
+- echo an alias to the ~/.bashrc file so `$ di` is executable (versus adding to $PATH)
+
 [[EDIT](https://github.com/nealalan/di.fm_playlist_menu/edit/master/readme.md)]
