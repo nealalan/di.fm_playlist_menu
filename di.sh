@@ -19,7 +19,7 @@ do
           ;;
         *)
           echo "You picked $FILENAME ($REPLY)"
-          mpv "$FILENAME"
+          mpv --cache=yes "$FILENAME" 
           ;;
   esac
 done
